@@ -22,17 +22,31 @@ Para poder ter acesso a ***Sway Cloud SDK***, e a todas as bibliotecas (Web e De
 
 [comment]: --------------------------------------------------------------------------
 
-# Bibliotecas Web (JavaScript e PHP)  
+# Bibliotecas Web (JavaScript e PHP):  
 Essas bibliotecas são destinadas e deixar os websites mais seguros e dinâmicos, geralmente sendo escritas em JavaScript e PHP, por serem justamente as línguagens mais comuns, tanto para iniciantes, quanto para profissionais, integrando ferramentas de fácil utilização, sendo elas:  
+
 * Encriptação e Decriptação [PHP].  
+  * Esta biblioteca realiza a ***encriptação*** e ***decriptação*** de variáveis PHP, utilizando uma ***Senha-Mestra***, definida pelo desenvolvedor.
+  * Encriptação e Decriptação rápidas, fáceis, dinâmicas e seguras.
+
 * Proteção de Midia Digital [JavaScript].  
-* Rastreador Web (Web Crawler) [PHP].  
-* Bibliotecas Hospedadas [PHP e JavaScript]  
-* DOM Inspector [JavaScript]  
+  * Esta biblioteca protege seus arquivos de serem baixados, e incorporados em outros websites.
+  * Pode proteger arquivos de ***Vídeo*** e ***Áudio***, de qualquer dimensão.
+
+* Rastreador Web (Web Crawler) [PHP].
+  * Esta biblioteca permite você capturar dados, atributos, elementos, meta tags, códigos-dontes de websites, etc.  
+  * Biblioteca ideal para construir ***motores de busca***.
+
+* Bibliotecas Hospedadas [PHP e JavaScript].
+  * Hospedamos todos os tipos de bibliotecas, que podem ser incluídas rápidamente, tais como: ***jQuery***, ***D3.js***, ***jQuery Mobile***, ***Ext Core***, dentre outras.  
+  * Nos oferescemos também um plano mensal de hospedagem, para você hospedar suas bibliotecas, e incluí-las quando desejar.
+
+* DOM Inspector [JavaScript].  
+  * Esta biblioteca disponibiliza a "criação" de um ***"DOM Inspector"***, que pode alterar attributos, estilos e o código-fonte do elemento selecionado.
 
 [comment]: --------------------------------------------------------------------------
 
-# Bibliotecas CSharp (C#)  
+# Bibliotecas CSharp (C#):  
 Essas bibliotecas são destinadas a segurança de dados, e a integração de recursos extras ao ***WinForms***, tais como:   
 
 * ### Leitor de Arquivos INI:  
