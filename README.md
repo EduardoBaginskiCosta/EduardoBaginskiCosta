@@ -183,7 +183,7 @@ Para a sua segurança, não aceite informações de terceiros de qualquer tipo q
 
 * Copyright © 2021 - Eduardo Baginski Costa. Todos os Direitos Reservados.  
 * Todas as bibliotecas estão protegidas por ***Direitos Autorais***, assim como seus ícones, e seu código-fonte. Todos os Direitos Reservados a *Eduardo Baginski Costa*.  
-* Os nomes ***Sway Cloud SDK***, ***Sway Cloud***, ***Sway Cloud Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais**. Todos os Direitos Reservados a *Eduardo Baginski Costa*.
+* Os nomes ***Sway Cloud SDK***, ***Sway Cloud***, ***Sway Cloud Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais***. Todos os Direitos Reservados a *Eduardo Baginski Costa*.
 
 
 
