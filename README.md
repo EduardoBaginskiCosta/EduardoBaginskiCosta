@@ -138,6 +138,39 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   URect.SetPictureBox(Target); // --- Aqui definimos em qual "PictureBox" ele deve ser injetado
   ```  
 
+[comment]: --------------------------------------------------------------------------
+
+# Bibliotecas Encomendadas (Web e Desktop):
+
+Você pode entrar em contato pelo GMail oficial ***swaycloud.oficial@gmail.com***, e encomendar uma biblioteca com funções e classes customizadas, de acordo com a sua necessidade.  
+Após o envio, seu pedido será analisado, e respondido dentro do período de ***uma semana***. Se a mesma for aceita, o preço será definido de acordo com a dificuldade, e complexidade da mesma. Se for recusada, lhe será enviado um e-mail, notificando tal ocorrência.  
+  
+Para a sua segurança, não aceite informações de terceiros de qualquer tipo que seja. Somente utilize, e siga instruções e informações do GMail oficial ***swaycloud.oficial@gmail.com***.
+
+[comment]: --------------------------------------------------------------------------
+
+# Considerações Finais e Informações Extras:
+
+* ### Considerações Finais:
+  * Os códigos exibidos são exemplos/demonstrações básicas de algumas bibliotecas, não se referindo ao produto como um todo.
+  * As bibliotecas (Desktop) funcionam com o **NET Framework 4.5.1** ou superior.
+  * Algumas bibliotecas (Desktop) podem depender de ***DLL's*** externas, em caso de recursos não instalados no computador.
+  * Todas as bibliotecas (Dektop) funcionam em computadores (***32 e 64 Bits***), sendo o sistema operacional ***Windows 7 (indefinido)***, ou superior.
+  * As bibliotecas (Web), requesitam navegadores com suporte a tecnologia ***HTML 5***, ***CSS 3*** e ***PHP (ultimas versões)***.
+
+* ### Informações Extras:
+  * Todas as informações sobre: ***pagamento***, ***incrementação***, ***ativação***, etc. Só devem ser seguidas, se vindas do GMail oficial ***swaycloud.oficial@gmail.com***.
+  * Não aceite instruções externas/terceiros, com exceção de tutoriais, desde que estes não contenham ações relacionadas a: ***ativação***, ***pagamento***, ou até mesmo a ***manutenção*** e/ou ***configuração*** da conta.
+  * Toda e qualquer dúvida deve ser enviada ao GMail oficial ***swaycloud.oficial@gmail.com***, ao qual lhe será devolvida uma resposta e/ou a indexação de um ***vídeo confiável*** e verificado.
+
+[comment]: --------------------------------------------------------------------------
+  
+# Créditos e Direitos Autorais:
+
+* Copyright © 2021 - Eduardo Baginski Costa. Todos os Direitos Reservados.  
+* Todas as bibliotecas estão protegidas por ***Direitos Autorais***, assim como seus ícones, e seu código-fonte. Todos os Direitos Reservados a *Eduardo Baginski Costa*.  
+* Os nomes ***Sway Cloud SDK***, ***Sway Cloud***, ***Sway Cloud Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais**. Todos os Direitos Reservados a *Eduardo Baginski Costa*.
+
 
 
 
