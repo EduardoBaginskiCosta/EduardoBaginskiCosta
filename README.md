@@ -10,15 +10,15 @@ Já criei diversas bibliotecas (Web e Desktop), voltadas para o segurança, e pa
 # Sobre a Sway Cloud SDK:
 
 A ***Sway Cloud SDK*** é um conjunto de bibliotecas, tanto para o desenvolvimento web, quanto para o desenvolvimento Desktop, que ajudam aos desenvolvedores tornarem seus websites, e softwares mais seguros e dinâmicos para os usuários/clientes.  
-O SDK é regido por um plano mensal de 50 reais, ao qual o usuário tem acesso a todas as bibliotecas (Web e Desktop), incluindo as futuras bibliotecas, que serão adicionadas. Ao criar uma conta o usuário recebe uma ***SDK-KEY*** única, ao qual se mantem válida enquanto a conta estiver ativa.  
+O SDK é regido por um plano mensal de ***50 reais***, ao qual o usuário tem acesso a todas as bibliotecas (Web e Desktop), incluindo as futuras bibliotecas, que serão adicionadas. Ao criar uma conta o usuário recebe uma ***SDK-KEY*** única, ao qual se mantem válida enquanto a conta estiver ativa.  
 A ***SDK-KEY*** serve para ativar os recursos disponíveis nas bibliotecas (Web e Desktop); Sem a mesma, nenhum recurso presente nas bibliotecas estará disponível para a utilização do usuário.  
 
 [comment]: --------------------------------------------------------------------------
 
 # Como Abrir Uma Conta Oficial:
 
-Para poder ter acesso a ***Sway Cloud SDK***, e a todas as bibliotecas (Web e Desktop), basta entar em ***[contato comigo](mailto:swaycloud.oficial@gmail.com)*** pelo ***Google GMail***. Lhe será dito todas as informações, como: ***pagamento***, ***incrementação (Web e Desktop)***, ***obrigações e deveres***, ***ativação***, etc.  
-**!!! AVISO IMPORTANTE !!!:** Somente aceite pagamentos, e informações disponibilizadas pelo meu GMail oficial: ***swaycloud.oficial@gmail.com***.
+Para poder ter acesso a ***Sway Cloud SDK***, e a todas as bibliotecas (Web e Desktop), basta entar em ***[contato comigo](mailto:eduardobcosta1234@gmail.com)*** pelo ***Google GMail***. Lhe será dito todas as informações, como: ***pagamento***, ***incrementação (Web e Desktop)***, ***obrigações e deveres***, ***ativação***, etc.  
+**!!! AVISO IMPORTANTE !!!:** Somente aceite pagamentos, e informações disponibilizadas pelo meu GMail oficial: ***eduardobcosta1234@gmail.com***.
 
 [comment]: --------------------------------------------------------------------------
 
@@ -156,10 +156,10 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
 
 # Bibliotecas Encomendadas (Web e Desktop):
 
-Você pode entrar em contato pelo GMail oficial ***swaycloud.oficial@gmail.com***, e encomendar uma biblioteca com funções e classes customizadas, de acordo com a sua necessidade.  
+Você pode entrar em contato pelo GMail oficial ***eduardobcosta1234@gmail.com***, e encomendar uma biblioteca com funções e classes customizadas, de acordo com a sua necessidade.  
 Após o envio, seu pedido será analisado, e respondido dentro do período de ***uma semana***. Se a mesma for aceita, o preço será definido de acordo com a dificuldade, e complexidade da mesma. Se for recusada, lhe será enviado um e-mail, notificando tal ocorrência.  
   
-Para a sua segurança, não aceite informações de terceiros de qualquer tipo que seja. Somente utilize, e siga instruções e informações do GMail oficial ***swaycloud.oficial@gmail.com***.
+Para a sua segurança, não aceite informações de terceiros de qualquer tipo que seja. Somente utilize, e siga instruções e informações do GMail oficial ***eduardobcosta1234@gmail.com***.
 
 [comment]: --------------------------------------------------------------------------
 
@@ -173,9 +173,9 @@ Para a sua segurança, não aceite informações de terceiros de qualquer tipo q
   * As bibliotecas (Web), requesitam navegadores com suporte a tecnologia ***HTML 5***, ***CSS 3*** e ***PHP (ultimas versões)***.
 
 * ### Informações Extras:
-  * Todas as informações sobre: ***pagamento***, ***incrementação***, ***ativação***, etc. Só devem ser seguidas, se vindas do GMail oficial ***swaycloud.oficial@gmail.com***.
+  * Todas as informações sobre: ***pagamento***, ***incrementação***, ***ativação***, etc. Só devem ser seguidas, se vindas do GMail oficial ***eduardobcosta1234@gmail.com***.
   * Não aceite instruções externas/terceiros, com exceção de tutoriais, desde que estes não contenham ações relacionadas a: ***ativação***, ***pagamento***, ou até mesmo a ***manutenção*** e/ou ***configuração*** da conta.
-  * Toda e qualquer dúvida deve ser enviada ao GMail oficial ***swaycloud.oficial@gmail.com***, ao qual lhe será devolvida uma resposta e/ou a indexação de um ***vídeo confiável*** e verificado.
+  * Toda e qualquer dúvida deve ser enviada ao GMail oficial ***eduardobcosta1234@gmail.com***, ao qual lhe será devolvida uma resposta e/ou a indexação de um ***vídeo confiável*** e verificado.
 
 [comment]: --------------------------------------------------------------------------
   
