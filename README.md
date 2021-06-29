@@ -13,6 +13,8 @@ A ***Sway Cloud SDK*** é um conjunto de bibliotecas, tanto para o desenvolvimen
 O SDK é regido por um plano mensal de ***50 reais***, ao qual o usuário tem acesso a todas as bibliotecas (Web e Desktop), incluindo as futuras bibliotecas, que serão adicionadas. Ao criar uma conta o usuário recebe uma ***SDK-KEY*** única, ao qual se mantem válida enquanto a conta estiver ativa.  
 A ***SDK-KEY*** serve para ativar os recursos disponíveis nas bibliotecas (Web e Desktop); Sem a mesma, nenhum recurso presente nas bibliotecas estará disponível para a utilização do usuário.  
 
+A ***Sway Cloud SDK*** também possue uma versão **Creative Commons**, ao qual pode ser utilizado em aplicativos não comerciais.
+
 [comment]: --------------------------------------------------------------------------
 
 # Como Abrir Uma Conta Oficial:
