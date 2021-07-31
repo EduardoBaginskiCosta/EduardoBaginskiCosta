@@ -42,10 +42,9 @@ namespace MySoftware {
 
 [comment]: --------------------------------------------------------------------------
 
-# Bibliotecas CSharp (C#):  
+# Bibliotecas CSharp (C#) - Developer Tools:  
 Essas bibliotecas são destinadas a segurança de dados, e a integração de recursos extras ao ***WinForms***, tais como:   
 
-[comment]: --- Leitor de Arquivos INI ---
 * ### Leitor de Arquivos INI:  
   * Esta classe permite que o software consiga interpretar arquivos INI, com facilidade, podendo retornar valores, em diferentes tipos, de acordo com a necessidade, e o tipo de chave que está sendo trabalhado, sendo eles: ***string***, ***int***, ***boolean (bool)***, ***double***, e também em uma ***array*** tipo ***string***. Veja uma exemplo de utilização:  
   
@@ -61,11 +60,9 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   
   * Possui suporte a múltiplas leituras de chaves em uma mesma seção, sendo retornados em uma ***array*** tipo ***string***.
 
-[comment]: --- TabControl Sem As Bordas Laterais ---
 * ### TabControl Sem As Bordas Laterais:  
   * Este controle como o nome diz, é um ***TabControl*** normal, porém suas bordas padrões foram removidas, aumentando o ***ClientRectangle***, proporcionando mais espaço.
 
-[comment]: --- Extensão Para o Controle RichTextBox ---
 * ### Extensão Para o Controle RichTextBox:  
   * Adicionar a Função: ***"SetInnerMargins"***. Ao qual é utilizada para setar as margens internas do controle. Veja um exemplo de utilização:  
   
@@ -78,7 +75,6 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   
   * Podendo ser utilizado juntamente a um **TextRuler**.  
 
-[comment]: --- Cifra de String ---
 * ### Cifra de String (Segurança):
   * Esta classe realiza a ***encriptação*** e ***decriptação*** de ***"strings"***, utilizando uma ***"Chave-Mestra"***. Veja um exemplo de utilização:  
   
@@ -95,7 +91,6 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   
   * Sendo uma classe perfeita para ocultar e proteger dados, dos usuários.
 
-[comment]: --- Interface de Usuário ---
 * ### Interface de Usuário:
   * Esta classe adiciona ferramentas para manipular ***Formulários (Form)***, apartir de outros controles, sendo recomandada na utilização de ***Formulários (Form)*** que não possuem bordas. As ferramentas disponíveis para a utilização, são:
     * A função: ***DraggableWindow***, esta função permite que você consiga mover o ***Formulário (Form)*** apartir de outro controle interno. Veja um exemplo de utilização:  
@@ -142,7 +137,6 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
 	new UserInterface().SetTip(TipButton, "Testando o ToolTip"); // --- Aqui aplicamos o ToolTip ao controle definido
 	```  
 
-[comment]: --- Retângulo do Usuário ---
 * ### Retângulo do Usuário (Graphics):
   * Esta classe adiciona criar um ***UserRect***, que pode ser utilizado um ***PictureBox*** (caso seja utilizado como um "Canvas", para desenhar gráficos), para auxiliar o usuário a posicionar e redimensionar alguma imagem e/ou desenho. Veja um exemplo de utilização:  
   
@@ -153,6 +147,16 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   PictureBox Target = MyPictureBox as PictureBox; // --- Aqui capturamos o "PictureBox", que será o nosso alvo  
   URect.SetPictureBox(Target); // --- Aqui definimos em qual "PictureBox" ele deve ser injetado
   ```  
+  
+* ### Botão de Menu:
+  * Esta classe adiciona um controle na **Aplicação WinForms**. Este controle possibilita a incorporação de um **"ContextMenuStrip"**, sem a necessidade do clique direito do mouse. Ao ativar o botão, o **"ContextMenuStrip"** será invocado abaixo do controle.
+
+* ### Estilo de Menu:
+  * Esta classe adiciona um **ProfessionalColorTable** a sua aplicação, pré definida, ao qual você pode customizar a coloração através das propriedades da classe. É utilizado no método **ToolStripProfessionalRenderer**, para customizar a aparência dos controles **ContextMenuStrip**, **MenuStrip**, **ToolStrip**, **StatusStrip**, entre outros compátiveis. As propriedades disponíveis são: **Black**, **White**, **WhiteSmoke** e **Transparent**. Cada propriedade é responsável por uma personalização, veja a seguir:
+	* A propriedade **Black**, é responsável pela coloração das bordas do controle.
+	* A propriedade **White**, é responsável pela coloração do fundo das opções que forem selecionadas pelo Mouse.
+	* A propriedade **WhiteSmoke**, é responsável pela coloração principal do fundo do controle.
+	* A propriedade **Transparent**, é responsável pela coloração de fundo dos ícones do controle.
 
 [comment]: --------------------------------------------------------------------------
 
