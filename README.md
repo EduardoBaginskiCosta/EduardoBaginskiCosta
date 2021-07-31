@@ -7,50 +7,45 @@ Já criei diversas bibliotecas (Web e Desktop), voltadas para o segurança, e pa
 
 [comment]: --------------------------------------------------------------------------
 
-# Sobre a Sway Cloud SDK:
+# Sobre a Sway Cloud™ Developer Tools:
 
-A ***Sway Cloud SDK*** é um conjunto de bibliotecas, tanto para o desenvolvimento web, quanto para o desenvolvimento Desktop, que ajudam aos desenvolvedores tornarem seus websites, e softwares mais seguros e dinâmicos para os usuários/clientes.  
-O SDK é regido por um plano mensal de ***50 reais***, ao qual o usuário tem acesso a todas as bibliotecas (Web e Desktop), incluindo as futuras bibliotecas, que serão adicionadas. Ao criar uma conta o usuário recebe uma ***SDK-KEY*** única, ao qual se mantem válida enquanto a conta estiver ativa.  
-A ***SDK-KEY*** serve para ativar os recursos disponíveis nas bibliotecas (Web e Desktop); Sem a mesma, nenhum recurso presente nas bibliotecas estará disponível para a utilização do usuário.  
+A ***Sway Cloud™ Developer Tools*** é um conjunto de bibliotecas, para o desenvolvimento de aplicativos desktop, que utilizam a linguagem de programação **CSharp 4.5.1 (ou Superior)**, e necessita apénas das **Referências (DLL)** básicas, de uma aplicação **WinForms**. Entre as bibliotecas incluidas estão o **Leitor de Arquivos INI**, **Cifra de String** (voltado para a segurança), **Extensão Para o Controle RichTextBox**, entre outros.
 
-A ***Sway Cloud SDK*** também possue uma versão com a **"Apache 2.0 License"**, ao qual pode ser utilizado em aplicativos não comerciais.
+Dentro da **Sway Cloud™ Developer Tools** é uma classe para extrair as informações da biblioteca, em caso da nacessidade de utilização. As informações disponíveis são: **Autor**, **Empresa**, **Versão** e **Direitos Autorais**. A seguir há um exemplo de como capturar as informações:
 
-[comment]: --------------------------------------------------------------------------
+```csharp
+#region Using directives
 
-# Como Abrir Uma Conta Oficial:
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Windows.Forms;
 
-Para poder ter acesso a ***Sway Cloud SDK***, e a todas as bibliotecas (Web e Desktop), basta entar em ***[contato comigo](mailto:eduardobcosta1234@gmail.com)*** pelo ***Google GMail***. Lhe será dito todas as informações, como: ***pagamento***, ***incrementação (Web e Desktop)***, ***obrigações e deveres***, ***ativação***, etc.  
-**!!! AVISO IMPORTANTE !!!:** Somente aceite pagamentos, e informações disponibilizadas pelo meu GMail oficial: ***eduardobcosta1234@gmail.com***.
+#endregion
 
-[comment]: --------------------------------------------------------------------------
+using Developer_Tools;
 
-# Bibliotecas Web (JavaScript e PHP):  
-Essas bibliotecas são destinadas e deixar os websites mais seguros e dinâmicos, geralmente sendo escritas em JavaScript e PHP, por serem justamente as línguagens mais comuns, tanto para iniciantes, quanto para profissionais, integrando ferramentas de fácil utilização, sendo elas:  
+namespace MySoftware {
 
-* Encriptação e Decriptação [PHP].  
-  * Esta biblioteca realiza a ***encriptação*** e ***decriptação*** de variáveis PHP, utilizando uma ***Senha-Mestra***, definida pelo desenvolvedor.
-  * Encriptação e Decriptação rápidas, fáceis, dinâmicas e seguras.
-
-* Proteção de Midia Digital [JavaScript].  
-  * Esta biblioteca protege seus arquivos de serem baixados, e incorporados em outros websites.
-  * Pode proteger arquivos de ***Vídeo*** e ***Áudio***, de qualquer dimensão.
-
-* Rastreador Web (Web Crawler) [PHP].
-  * Esta biblioteca permite você capturar dados, atributos, elementos, meta tags, códigos-dontes de websites, etc.  
-  * Biblioteca ideal para construir ***motores de busca***.
-
-* Bibliotecas Hospedadas [PHP e JavaScript].
-  * Hospedamos todos os tipos de bibliotecas, que podem ser incluídas rápidamente, tais como: ***jQuery***, ***D3.js***, ***jQuery Mobile***, ***Ext Core***, dentre outras.  
-  * Nos oferescemos também um plano mensal de hospedagem, para você hospedar suas bibliotecas, e incluí-las quando desejar.
-
-* DOM Inspector [JavaScript].  
-  * Esta biblioteca disponibiliza a "criação" de um ***"DOM Inspector"***, que pode alterar attributos, estilos e o código-fonte do elemento selecionado.
+	public partial class MainForm : Form
+	{
+		InitializeComponent();
+		
+		string _author = LibraryInfo.Author; // --- Autor da Biblioteca
+		string _company = LibraryInfo.Company; // --- Empresa Responsável
+		string _version = LibraryInfo.Version; // --- Versão da Biblioteca
+		string _copyright = LibraryInfo.Copyright; // --- Direitos Autorais
+	}
+	
+}
+```
 
 [comment]: --------------------------------------------------------------------------
 
 # Bibliotecas CSharp (C#):  
 Essas bibliotecas são destinadas a segurança de dados, e a integração de recursos extras ao ***WinForms***, tais como:   
 
+[comment]: --- Leitor de Arquivos INI ---
 * ### Leitor de Arquivos INI:  
   * Esta classe permite que o software consiga interpretar arquivos INI, com facilidade, podendo retornar valores, em diferentes tipos, de acordo com a necessidade, e o tipo de chave que está sendo trabalhado, sendo eles: ***string***, ***int***, ***boolean (bool)***, ***double***, e também em uma ***array*** tipo ***string***. Veja uma exemplo de utilização:  
   
@@ -66,9 +61,11 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   
   * Possui suporte a múltiplas leituras de chaves em uma mesma seção, sendo retornados em uma ***array*** tipo ***string***.
 
+[comment]: --- TabControl Sem As Bordas Laterais ---
 * ### TabControl Sem As Bordas Laterais:  
   * Este controle como o nome diz, é um ***TabControl*** normal, porém suas bordas padrões foram removidas, aumentando o ***ClientRectangle***, proporcionando mais espaço.
 
+[comment]: --- Extensão Para o Controle RichTextBox ---
 * ### Extensão Para o Controle RichTextBox:  
   * Adicionar a Função: ***"SetInnerMargins"***. Ao qual é utilizada para setar as margens internas do controle. Veja um exemplo de utilização:  
   
@@ -81,6 +78,7 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   
   * Podendo ser utilizado juntamente a um **TextRuler**.  
 
+[comment]: --- Cifra de String ---
 * ### Cifra de String (Segurança):
   * Esta classe realiza a ***encriptação*** e ***decriptação*** de ***"strings"***, utilizando uma ***"Chave-Mestra"***. Veja um exemplo de utilização:  
   
@@ -96,8 +94,9 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
   ```  
   
   * Sendo uma classe perfeita para ocultar e proteger dados, dos usuários.
-  
-* ### Interface de usuário:
+
+[comment]: --- Interface de Usuário ---
+* ### Interface de Usuário:
   * Esta classe adiciona ferramentas para manipular ***Formulários (Form)***, apartir de outros controles, sendo recomandada na utilização de ***Formulários (Form)*** que não possuem bordas. As ferramentas disponíveis para a utilização, são:
     * A função: ***DraggableWindow***, esta função permite que você consiga mover o ***Formulário (Form)*** apartir de outro controle interno. Veja um exemplo de utilização:  
 	
@@ -142,7 +141,8 @@ Essas bibliotecas são destinadas a segurança de dados, e a integração de rec
 	Button TipButton = MyButton as Button; // --- Aqui capturamos o controle que desejamos atribuir o "ToolTip" (OBS: pode ser qualquer controle)  
 	new UserInterface().SetTip(TipButton, "Testando o ToolTip"); // --- Aqui aplicamos o ToolTip ao controle definido
 	```  
-	
+
+[comment]: --- Retângulo do Usuário ---
 * ### Retângulo do Usuário (Graphics):
   * Esta classe adiciona criar um ***UserRect***, que pode ser utilizado um ***PictureBox*** (caso seja utilizado como um "Canvas", para desenhar gráficos), para auxiliar o usuário a posicionar e redimensionar alguma imagem e/ou desenho. Veja um exemplo de utilização:  
   
@@ -175,8 +175,6 @@ Para a sua segurança, não aceite informações de terceiros de qualquer tipo q
   * As bibliotecas (Web), requesitam navegadores com suporte a tecnologia ***HTML 5***, ***CSS 3*** e ***PHP (ultimas versões)***.
 
 * ### Informações Extras:
-  * Todas as informações sobre: ***pagamento***, ***incrementação***, ***ativação***, etc. Só devem ser seguidas, se vindas do GMail oficial ***eduardobcosta1234@gmail.com***.
-  * Não aceite instruções externas/terceiros, com exceção de tutoriais, desde que estes não contenham ações relacionadas a: ***ativação***, ***pagamento***, ou até mesmo a ***manutenção*** e/ou ***configuração*** da conta.
   * Toda e qualquer dúvida deve ser enviada ao GMail oficial ***eduardobcosta1234@gmail.com***, ao qual lhe será devolvida uma resposta e/ou a indexação de um ***vídeo confiável*** e verificado.
 
 [comment]: --------------------------------------------------------------------------
@@ -185,7 +183,7 @@ Para a sua segurança, não aceite informações de terceiros de qualquer tipo q
 
 * Copyright © 2021 - Eduardo Baginski Costa. Todos os Direitos Reservados.  
 * Todas as bibliotecas estão protegidas por ***Direitos Autorais***, assim como seus ícones, e seu código-fonte. Todos os Direitos Reservados a *Eduardo Baginski Costa*.  
-* Os nomes ***Sway Cloud SDK***, ***Sway Cloud***, ***Sway Cloud Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais***. Todos os Direitos Reservados a *Eduardo Baginski Costa*.
+* Os nomes ***Sway Cloud™***, ***Sway Cloud™ Developer Tools***, ***Sway Cloud™ Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais***. Todos os Direitos Reservados a **Eduardo Baginski Costa**.
 
 
 
