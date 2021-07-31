@@ -1,9 +1,15 @@
 # Quem Sou Eu:
 
-Olá ! Sou Eduardo Baginski Costa, sou um desenvolvedor web, e Desktop brasileiro.  
+Olá ! Sou Eduardo Baginski Costa, sou um desenvolvedor de bibliotecas e aplicações Web, e Desktop brasileiro. Sou o fundador e criador da empresa digital **Sway Cloud™**, e sou o lider do grupo de desenvolvimento **Sway Cloud™ Developers**.
   
 Eu desenvolvo bibliotecas JavaScript, PHP e CSharp, para desenvolvedores, que desejam tornar seu websites e aplicativos mais seguros. Como a ***encriptação*** e ***decriptação*** de dados, ***proteção de mídia digital (imagens, vídeos, documentos)***, entre outros.  
 Já criei diversas bibliotecas (Web e Desktop), voltadas para o segurança, e para a dinâmica dos mesmos. Nos próximos tópicos, será mostrado todas as bibliotecas desenvolvidas até o presente momento, tanto as de desenvolvimento web, como as para desenvolvimento Desktop.
+
+[comment]: --------------------------------------------------------------------------
+
+# Sobre a Sway Cloud™:
+
+A **Sway Cloud™** é uma empresa digital, criada com o objetivo de desenvolver bibliotecas e aplicações Web e Desktop, assim como outras tecnologias, tanto de proteção de mídia, quanto de elementos interativos. As bibliotecas Web e Desktop, podem ser adquiridos pagando um plano mensal, que se encaixe nas necessidades do usuário. A conta criada pelo usuário serve para todos os serviços atuais, quanto futuros. Os planos podem ser cancelados quando o usuário desejar.
 
 [comment]: --------------------------------------------------------------------------
 
