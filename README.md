@@ -1,60 +1,51 @@
-# Quem Sou Eu:
-
-Olá ! Sou Eduardo Baginski Costa, sou um desenvolvedor de bibliotecas e aplicações Web, e Desktop brasileiro. Sou o fundador e criador da empresa digital **Sway Cloud™**, e sou o lider do grupo de desenvolvimento **Sway Cloud™ Developers**.
+<!-- INTRODUÇÃO -->
+## Quem Sou Eu
+Olá amantes da tecnologia! Sou Eduardo Baginski Costa, um desenvolvedor Web e Desktop brasileiro, que deseja criar tecnologias inovadoras que possam melhorar nosso mundo futuramente.  
   
-Eu desenvolvo bibliotecas JavaScript, PHP e CSharp, para desenvolvedores, que desejam tornar seu websites e aplicativos mais seguros. Como a ***encriptação*** e ***decriptação*** de dados, ***proteção de mídia digital (imagens, vídeos, documentos)***, entre outros.  
-Já criei diversas bibliotecas (Web e Desktop), voltadas para o segurança, e para a dinâmica dos mesmos. Nos próximos tópicos, será mostrado todas as bibliotecas desenvolvidas até o presente momento, tanto as de desenvolvimento web, como as para desenvolvimento Desktop.
-
-[comment]: --------------------------------------------------------------------------
-
-# Sobre a Sway Cloud™:
-
-A **Sway Cloud™** é uma empresa digital, criada com o objetivo de desenvolver bibliotecas e aplicações Web e Desktop, assim como outras tecnologias, tanto de proteção de mídia, quanto de elementos interativos. As bibliotecas Web e Desktop, podem ser adquiridos pagando um plano mensal, que se encaixe nas necessidades do usuário. A conta criada pelo usuário serve para todos os serviços atuais, quanto futuros. Os planos podem ser cancelados quando o usuário desejar.
-
-[comment]: --------------------------------------------------------------------------
-
-# Bibliotecas Encomendadas (Web e Desktop):
-
-Você pode entrar em contato pelo GMail oficial ***eduardobcosta1234@gmail.com***, e encomendar uma biblioteca com funções e classes customizadas, de acordo com a sua necessidade.  
-Após o envio, seu pedido será analisado, e respondido dentro do período de ***uma semana***. Se a mesma for aceita, o preço será definido de acordo com a dificuldade, e complexidade da mesma. Se for recusada, lhe será enviado um e-mail, notificando tal ocorrência.  
+Sou o criador, fundador e CEO de um pequeno grupo de desenvolvimento de tecnologias a **Sway Cloud™**. Os nossos principas projetos estão publicados aqui no meu perfil, que são atualizados ao decorrer do tempo.  
   
-Para a sua segurança, não aceite informações de terceiros de qualquer tipo que seja. Somente utilize, e siga instruções e informações do GMail oficial ***eduardobcosta1234@gmail.com***.
-
-[comment]: --------------------------------------------------------------------------
-
-# Considerações Finais e Informações Extras:
-
-* ### Considerações Finais:
-  * Os códigos exibidos são exemplos/demonstrações básicas de algumas bibliotecas, não se referindo ao produto como um todo.
-  * As bibliotecas (Desktop) funcionam com o **NET Framework 4.5.1** ou superior.
-  * Algumas bibliotecas (Desktop) podem depender de ***DLL's*** externas, em caso de recursos não instalados no computador.
-  * Todas as bibliotecas (Dektop) funcionam em computadores (***32 e 64 Bits***), sendo o sistema operacional ***Windows 7 (indefinido)***, ou superior.
-  * As bibliotecas (Web), requesitam navegadores com suporte a tecnologia ***HTML 5***, ***CSS 3*** e ***PHP (ultimas versões)***.
-
-* ### Informações Extras:
-  * Toda e qualquer dúvida deve ser enviada ao GMail oficial ***eduardobcosta1234@gmail.com***, ao qual lhe será devolvida uma resposta e/ou a indexação de um ***vídeo confiável*** e verificado.
-
-[comment]: --------------------------------------------------------------------------
+<!-- SOBRE MIM -->
+## Minhas Experiências
+Possu experiência com as linguagens de programação: **HTML, CSS, JavaScript, PHP, SQL** e **C#**.  
   
-# Créditos e Direitos Autorais:
+Já desenvolvi diversos projetos de utilização pessoal, tanto Web quanto Desktop, tais como:
+|**Projetos Web**|
+|-----|
+|Uma cópia da Netflix, com sistema de pesquisa, e sugestões baseadas nos interesses do usuário.|
+|Um site de notícias, que captura dados tanto do Google, quanto do DuckDuckGo utilizando um Crawler em PHP, qu exibe eles em formas de Cards.|
+|Um motor de busca que utiliza um algoritimo baseado no PageRank.|
+|Uma pequena loja virtual, que utiliza a API do PayPal para a realização de pagamentos.|
+  
+|**Projetos Desktop**|
+|-----|
+|Um leitor de arquivos PDF.|
+|Um motor que baixa arquivos grandes da Internet em Chunks, utilizando de processos paralelos.|
+|Uma biblioteca com diversas classes, para desenvolvedores Desktop que utilizam o C#.|
+|Um software para ajudar na configuração de roteadores Wi-Fi.|
+|Um software de cálculos matemáticos, utilizando a biblioteca mXparser.|
 
-* Copyright © 2021 - Eduardo Baginski Costa. Todos os Direitos Reservados.  
-* Todas as bibliotecas estão protegidas por ***Direitos Autorais***, assim como seus ícones, e seu código-fonte. Todos os Direitos Reservados a *Eduardo Baginski Costa*.  
-* Os nomes ***Sway Cloud™***, ***Sway Cloud™ Developer Tools***, ***Sway Cloud™ Developers*** e variantes, assim como seus ícones, e código-fonte estão protegidos por ***Direitos Autorais***. Todos os Direitos Reservados a **Eduardo Baginski Costa**.
+<!-- VISÃO GERAL -->
+## Visão Geral
+Minhas estatísticas atuais do **GitHub**.  
+  
+![GitHubStatus](https://github-readme-stats.anuraghazra1.vercel.app/api?username=EduardoBaginskiCosta&show_icons=true&line_height=27&include_all_commits=true")
+  
+Linguagens mais utilizadas nos projetos do **GitHub**.  
 
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBaginskiCosta&layout=compact)
 
+<!-- AJUDA -->
+## Me Ajude a Continuar Desenvolvendo
+Sou um desenvolvedor simples, que utiliza um Notebook "fraco" para desenvolver os meus projetos, com muitas vezes tendo que dar um jeito de contornar muitas limitações que isso trás.  
+  
+Realize uma doação via _PayPal_ para que os projetos atuais ganhem novas versões, e que outros possam existir, ficando cada vez melhores.  
+Faça sua doação através do **[Link Direto](https://www.paypal.com/donate?hosted_button_id=U2APG4E9VU8US)**, ou lendo o **Código QR**:  
 
+![PayPal QR](https://github.com/EduardoBaginskiCosta/Falcon-Engine/raw/main/PayPal_QR.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- DIREITOS AUTORAIS -->
+## Direitos Autorais
+Copyright © 2021 - , Eduardo Baginski Costa. Todos os Direitos Rservados.  
+  
+O nome **Sway Cloud™** assim como suas variantes, e seu ícones estão sujeitos a Direitos Autorais.  
+Todos os Direitos Reservados a Eduardo Baginski Costa.
