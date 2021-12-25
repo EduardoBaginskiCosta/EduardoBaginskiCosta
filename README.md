@@ -35,7 +35,7 @@ Realize sua doação através do **[Link Direto](https://www.paypal.com/donate?h
 
 <!-- DIREITOS AUTORAIS -->
 ## Direitos Autorais
-Copyright © 2021 - , Eduardo Baginski Costa. Todos os Direitos Rservados.  
+Copyright © 2021 - , Eduardo Baginski Costa. Todos os Direitos Reservados.  
   
 O nome **Sway Cloud®** assim como suas variantes, e seu ícones estão sujeitos a Direitos Autorais.  
 Todos os Direitos Reservados a Eduardo Baginski Costa.
