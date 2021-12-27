@@ -2,7 +2,7 @@
 ## Quem Sou Eu
 Olá amantes da tecnologia! Sou Eduardo Baginski Costa, um desenvolvedor Web e Desktop brasileiro, que deseja criar tecnologias inovadoras que possam melhorar nosso mundo futuramente.  
   
-Sou o criador, fundador e CEO de um pequeno grupo de desenvolvimento de tecnologias a **Sway Cloud®**. Os nossos principas projetos estão publicados aqui no meu perfil, que são atualizados ao decorrer do tempo.  
+Sou o criador, fundador e CEO de uma organização de desenvolvimento de tecnologias a [Sway Cloud®](https://github.com/Sway-Cloud). Os nossos principas projetos estão publicados aqui no meu perfil, que são atualizados ao decorrer do tempo.  
 
 <!-- TECNOLOGIAS -->
 ### • Tecnologias Que Eu Utilizo
@@ -19,23 +19,23 @@ Lista de linguagens que utilizo no meu desenvolvimento.
 
 <!-- ORGANIZAÇÃO -->
 ## Sway Cloud®
-Todas as tecnologias desenvolvidas são publicadas na organização oficial da **Sway Cloud®**, prontas para serem baixadas, alteradas e utilizadas por todos.  
-Visite hoje mesmo e começe a utilizar nossas tecnologias: [**Acessar Organização**](https://github.com/Sway-Cloud).
+Todas as tecnologias desenvolvidas são publicadas na organização oficial da [Sway Cloud®](https://github.com/Sway-Cloud), prontas para serem baixadas, alteradas e utilizadas por todos.  
+Visite hoje mesmo e começe a utilizar nossas tecnologias: [Acessar Organização](https://github.com/Sway-Cloud).
 
 <!-- VISÃO GERAL -->
 ## Visão Geral
-Minhas estatísticas atuais do **GitHub**.  
+Minhas estatísticas atuais do GitHub.  
   
 ![GitHubStatus](https://github-readme-stats.anuraghazra1.vercel.app/api?username=EduardoBaginskiCosta&show_icons=true&line_height=27&include_all_commits=true")
 
 <!-- AJUDA -->
 ## Ajudar No Desenvolvimento
-Realize uma doação via _PayPal_, para ajudar a manter os projetos da **Sway Cloud®** atualizados, e também ajudar no investimento de novas tecnologias cada vez melhores, para ajudar os demais desenvolvedores a melhorarem seus projetos.  
-Realize sua doação através do **[Link Direto](https://www.paypal.com/donate?hosted_button_id=U2APG4E9VU8US)**.
+Realize uma doação via _PayPal_, para mentar os repositórios da [Sway Cloud®](https://github.com/Sway-Cloud) sempre atualizados, e também ajudar no desenvolvimento de novos repositórios com tecnologias cada vez melhores, para ajudar o desenvolvimento do seus projetos.  
+Realize uma doação através do [link direto](https://www.paypal.com/donate?hosted_button_id=U2APG4E9VU8US).
 
 <!-- DIREITOS AUTORAIS -->
 ## Direitos Autorais
-Copyright © 2021 - , Eduardo Baginski Costa. Todos os Direitos Reservados.  
+Copyright © 2021 - , [Eduardo Baginski Costa](https://github.com/EduardoBaginskiCosta). Todos os Direitos Reservados.  
   
-O nome **Sway Cloud®** assim como suas variantes, e seu ícones estão sujeitos a Direitos Autorais.  
-Todos os Direitos Reservados a Eduardo Baginski Costa.
+O nome [Sway Cloud®](https://github.com/Sway-Cloud) assim como suas variantes, e seu ícones estão sujeitos a Direitos Autorais.  
+Todos os Direitos Reservados a [Eduardo Baginski Costa](https://github.com/EduardoBaginskiCosta).
